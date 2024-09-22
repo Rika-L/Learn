@@ -11,4 +11,4 @@
 ## 2024-9 ~
 - [TypeScript](https://github.com/Rika-L/learn-typeScript) **2024/9/20 - 2024/9/22**
 - [react](https://github.com/Rika-L/learn-react) **2024/9/22 - ？**
-- [nestjs](https://github.com/Rika-L/learn-nestjs) **2024/9/22 = ?**
+- [nestjs](https://github.com/Rika-L/learn-nestjs) **2024/9/22 - ?**
